@@ -1,0 +1,7 @@
+boto3
+tensorflow==2.7
+keras_applications
+numpy
+pytz
+tzlocal
+Image
