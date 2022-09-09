@@ -43,3 +43,21 @@ and a dockerfile to build the image for deployong on Lambda.
 
 cnn_serving also has an infer.py using which one can test the function locally (as a regular function) assuming that
 you have already signed into AWS on your machine.
+
+
+The corresponding code for vHive is as per the original code:
+chameleon:
+vhive:
+See server.py at:
+https://github.com/ease-lab/vhive/tree/main/function-images/chameleon 
+
+Lambda: 
+See the file lambda_function.py in the directories under "chameleon"
+
+cnn_serving:
+vHive:
+See server.py at:
+https://github.com/ease-lab/vhive/tree/main/function-images/cnn_serving
+
+Lambda:
+See the file lambda_function.py in the directories under "cnn_serving"
