@@ -1,0 +1,152 @@
+[
+	{
+		"hostname": "chameleon",
+		"eventing": false,
+		"matchers": null
+	},
+  {
+		"hostname": "cnn_serving",
+		"eventing": false,
+		"matchers": null
+	},
+	{
+		"hostname": "chameleon",
+		"eventing": false,
+		"matchers": null
+	},
+  {
+		"hostname": "cnn_serving",
+		"eventing": false,
+		"matchers": null
+	},
+	{
+		"hostname": "chameleon",
+		"eventing": false,
+		"matchers": null
+	},
+  {
+		"hostname": "cnn_serving",
+		"eventing": false,
+		"matchers": null
+	},
+	{
+		"hostname": "chameleon",
+		"eventing": false,
+		"matchers": null
+	},
+  {
+		"hostname": "cnn_serving",
+		"eventing": false,
+		"matchers": null
+	},
+	{
+		"hostname": "chameleon",
+		"eventing": false,
+		"matchers": null
+	},
+  {
+		"hostname": "cnn_serving",
+		"eventing": false,
+		"matchers": null
+	},
+	{
+		"hostname": "chameleon",
+		"eventing": false,
+		"matchers": null
+	},
+  {
+		"hostname": "cnn_serving",
+		"eventing": false,
+		"matchers": null
+	},
+	{
+		"hostname": "chameleon",
+		"eventing": false,
+		"matchers": null
+	},
+  {
+		"hostname": "cnn_serving",
+		"eventing": false,
+		"matchers": null
+	},
+	{
+		"hostname": "chameleon",
+		"eventing": false,
+		"matchers": null
+	},
+  {
+		"hostname": "cnn_serving",
+		"eventing": false,
+		"matchers": null
+	},
+	{
+		"hostname": "chameleon",
+		"eventing": false,
+		"matchers": null
+	},
+  {
+		"hostname": "cnn_serving",
+		"eventing": false,
+		"matchers": null
+	},
+	{
+		"hostname": "chameleon",
+		"eventing": false,
+		"matchers": null
+	},
+  {
+		"hostname": "cnn_serving",
+		"eventing": false,
+		"matchers": null
+	},
+	{
+		"hostname": "chameleon",
+		"eventing": false,
+		"matchers": null
+	},
+  {
+		"hostname": "cnn_serving",
+		"eventing": false,
+		"matchers": null
+	},
+	{
+		"hostname": "chameleon",
+		"eventing": false,
+		"matchers": null
+	},
+  {
+		"hostname": "cnn_serving",
+		"eventing": false,
+		"matchers": null
+	},
+	{
+		"hostname": "chameleon",
+		"eventing": false,
+		"matchers": null
+	},
+  {
+		"hostname": "cnn_serving",
+		"eventing": false,
+		"matchers": null
+	},
+	{
+		"hostname": "chameleon",
+		"eventing": false,
+		"matchers": null
+	},
+  {
+		"hostname": "cnn_serving",
+		"eventing": false,
+		"matchers": null
+	},
+	{
+		"hostname": "chameleon",
+		"eventing": false,
+		"matchers": null
+	},
+  {
+		"hostname": "cnn_serving",
+		"eventing": false,
+		"matchers": null
+	}
+]
